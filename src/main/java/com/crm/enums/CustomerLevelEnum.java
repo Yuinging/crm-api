@@ -35,6 +35,3 @@ public enum CustomerLevelEnum {
         return null;
     }
 }
-
-
-
